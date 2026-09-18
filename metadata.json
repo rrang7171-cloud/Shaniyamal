@@ -1,0 +1,6 @@
+{
+  "name": "Glow & Grow Skincare",
+  "description": "High-performance cellular luxury skincare atelier featuring frosted optic glass, architectural champagne gold vessels, bio-peptides, clean mineral SPFs, and restorative treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
